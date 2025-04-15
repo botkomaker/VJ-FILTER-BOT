@@ -246,7 +246,9 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>⚙️ sɪᴢᴇ : {file_size}</b>
+
+<b>💎 Join Movie Channel: @movie_channel8</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
