@@ -248,7 +248,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>
 
-<b>💎 Join Movie Channel: @movie_channel8</b>""" 
+<b>💎 Movie Channel: @movie_channel8</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
