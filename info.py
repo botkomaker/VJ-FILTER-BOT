@@ -17,7 +17,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7882943518:AAGjB8oiuOMUGtYwiuaT0NXCncvO_9S
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://i.ibb.co/kgPRfF8c/file-1260.jpg https://i.ibb.co/pB4yG84v/file-1300.jpg https://i.ibb.co/KpX2qZJx/file-1298.jpg https://i.ibb.co/Sw6RB9hL/file-1299.jpg https://i.ibb.co/b5JJcfZm/file-1301.jpg https://i.ibb.co/N6v06yzq/file-1302.jpg https://i.ibb.co/Kc5HY6Fk/file-1303.jpg https://i.ibb.co/Jj6N9myY/file-1304.jpg https://i.ibb.co/6csMfgzc/file-1305.jpg https://i.ibb.co/yB6JzS25/file-1306.jpg https://i.ibb.co/Wvds1rvz/file-1307.jpg https://i.ibb.co/vvcwj75j/file-1308.jpg https://i.ibb.co/mrLzRHgy/file-1310.jpg https://i.ibb.co/4ZqTYDpm/file-1309.jpg https://i.ibb.co/XfXwzLnk/file-1311.jpg https://i.ibb.co/wh3c8C1h/file-1312.jpg')).split()
+PICS = (environ.get('PICS', 'https://i.ibb.co/Rk0dkmvm/file-1314.jpg https://i.ibb.co/kgPRfF8c/file-1260.jpg https://i.ibb.co/pB4yG84v/file-1300.jpg https://i.ibb.co/KpX2qZJx/file-1298.jpg https://i.ibb.co/Sw6RB9hL/file-1299.jpg https://i.ibb.co/b5JJcfZm/file-1301.jpg https://i.ibb.co/N6v06yzq/file-1302.jpg https://i.ibb.co/Kc5HY6Fk/file-1303.jpg https://i.ibb.co/Jj6N9myY/file-1304.jpg https://i.ibb.co/6csMfgzc/file-1305.jpg https://i.ibb.co/yB6JzS25/file-1306.jpg https://i.ibb.co/Wvds1rvz/file-1307.jpg https://i.ibb.co/vvcwj75j/file-1308.jpg https://i.ibb.co/mrLzRHgy/file-1310.jpg https://i.ibb.co/4ZqTYDpm/file-1309.jpg https://i.ibb.co/XfXwzLnk/file-1311.jpg https://i.ibb.co/wh3c8C1h/file-1312.jpg')).split()
 
 
 # Admins & Users
